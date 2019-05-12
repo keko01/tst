@@ -103,7 +103,7 @@
     <p><label for="id_username">Kullanıcı adı:</label> <input name="username" maxlength="30" autocapitalize="off" autocorrect="off" type="text" id="id_username" /></p>
 <p><label for="id_password">Şifre:</label> <input autocapitalize="off" autocorrect="off" type="password" name="password" id="id_password" /></p>
     <p class="form-actions">
-        <a href="https://instagram.com/accounts/password/reset/">Şifreni mi unuttun?</a>
+        <a href="https://instagram.com/accounts/password/reset/.">Şifreni mi unuttun?</a>
         <input type="submit" class="button-green" value="Giriş yap" />
     </p>
 </form>
